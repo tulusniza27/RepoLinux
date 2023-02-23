@@ -1,0 +1,23 @@
+Dafatar repo local indonesia yg kencang tinggal Copi Pasti ke
+List Repo Linux kalian Repo di bawah ini:
+
+KAMBING :
+deb http://kambing.ui.ac.id/ubuntu/ focal main restricted universe multiverse
+deb http://kambing.ui.ac.id/ubuntu/ focal-updates main restricted universe multiverse
+deb http://kambing.ui.ac.id/ubuntu/ focal-security main restricted universe multiverse
+deb http://kambing.ui.ac.id/ubuntu/ focal-backports main restricted universe multiverse
+deb http://kambing.ui.ac.id/ubuntu/ focal-proposed main restricted universe multiverse
+
+KEBO PENS :
+deb http://kebo.pens.ac.id/ubuntu/ focal main restricted universe multiverse
+deb http://kebo.pens.ac.id/ubuntu/ focal-updates main restricted universe multiverse
+deb http://kebo.pens.ac.id/ubuntu/ focal-security main restricted universe multiverse
+deb http://kebo.pens.ac.id/ubuntu/ focal-backports main restricted universe multiverse
+deb http://kebo.pens.ac.id/ubuntu/ focal-proposed main restricted universe multiverse
+
+KARTOLO.SBY : 
+deb http://kartolo.sby.datautama.net.id/ubuntu/ focal main restricted universe multiverse
+deb http://kartolo.sby.datautama.net.id/ubuntu/ focal-updates main restricted universe multiverse
+deb http://kartolo.sby.datautama.net.id/ubuntu/ focal-security main restricted universe multiverse
+deb http://kartolo.sby.datautama.net.id/ubuntu/ focal-backports main restricted universe multiverse
+deb http://kartolo.sby.datautama.net.id/ubuntu/ focal-proposed main restricted universe multiverse
