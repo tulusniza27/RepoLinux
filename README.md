@@ -9,5 +9,5 @@ Lalu copi link repo salah satu yg ingin di gunakan.
 Lalu keluar dari nano editor txt lanjut update paket Repo
 Dengan perintah : 
 
-*. "sudo apt update" 
+*  "sudo apt update" 
 tekan enter.
